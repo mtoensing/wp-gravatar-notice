@@ -17,7 +17,7 @@ add_filter( 'comment_form_defaults', 'wpgn_comment_form_defaults' );
 function wpgn_comment_form_defaults( $defaults ) {
 
 	$text                            = __( 'This website displays user images from %s.', 'wp-gravatar-notice' );
-	$defaults['comment_notes_after'] = '<p class="comment-notes">' . sprintf( $text, '<a rel="nofollow" href="https://gravatar.com">gravatar.com</a>' ) . '</p>';
+	$defaults['comment_notes_after'] = '<p class="comment-notes gravatar-notice">' . sprintf( $text, '<a rel="nofollow" href="https://gravatar.com">gravatar.com</a>' ) . '</p>';
 
 	return $defaults;
 }
