@@ -3,7 +3,7 @@
 /*
 Plugin Name: WP Gravatar Notice
 Description: Displays a notice that this blog uses the gravatars service for user images in the comment section.
-Plugin URI:  http://marc.tv
+Plugin URI:  https://github.com/mtoensing/wp-gravatar-notice/
 Version:     0.1
 Text Domain: wp-gravatar-notice
 Domain Path: /language
