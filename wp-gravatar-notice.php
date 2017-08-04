@@ -8,7 +8,7 @@ Version:     0.1
 Text Domain: wp-gravatar-notice
 Domain Path: /language
 Author:      MarcDK
-Author URI:  http://marc.tv
+Author URI:  https://marc.tv
 License URI: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
