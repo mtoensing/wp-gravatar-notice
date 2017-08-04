@@ -21,4 +21,11 @@ function wpgn_comment_form_defaults( $defaults ) {
 
 	return $defaults;
 }
+
+add_action('plugins_loaded', 'wpgn_load_textdomain');
+
+function wpgn_load_textdomain() {
+	load_plugin_textdomain('wp-gravatar-notice', false, dirname(plugin_basename(__FILE__)) . '/language/');
+}
+
 ?>
