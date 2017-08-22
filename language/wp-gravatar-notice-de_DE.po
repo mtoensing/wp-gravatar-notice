@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP Gravatar Notice\n"
-"POT-Creation-Date: 2017-08-04 12:30+0200\n"
-"PO-Revision-Date: 2017-08-04 12:30+0200\n"
+"POT-Creation-Date: 2017-08-04 14:20+0200\n"
+"PO-Revision-Date: 2017-08-04 14:59+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -30,8 +30,7 @@ msgid "WP Gravatar Notice"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-#. Author URI of the plugin/theme
-msgid "http://marc.tv"
+msgid "https://github.com/mtoensing/wp-gravatar-notice/"
 msgstr ""
 
 #. Description of the plugin/theme
@@ -43,4 +42,8 @@ msgstr ""
 
 #. Author of the plugin/theme
 msgid "MarcDK"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://marc.tv"
 msgstr ""

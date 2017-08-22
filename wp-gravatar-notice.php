@@ -4,7 +4,7 @@
 Plugin Name: WP Gravatar Notice
 Description: Displays a notice that this blog uses the gravatars service for user images in the comment section.
 Plugin URI:  https://github.com/mtoensing/wp-gravatar-notice/
-Version:     0.1
+Version:     1.0
 Text Domain: wp-gravatar-notice
 Domain Path: /language
 Author:      MarcDK
