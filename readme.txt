@@ -3,7 +3,7 @@ Contributors: MarcDK
 Tags: marctv, gravatar, legal, notice
 Requires at least: 3.0
 Tested up to: 4.8
-Stable tag: 1.0
+Stable tag: 1.1
 GitHub Plugin URI: mtoensing/wp-gravatar-notice
 
 == Description ==
@@ -16,5 +16,7 @@ Displays a notice at the comment section that the blog uses the gravatars servic
 * Activate it
 
 == Changelog ==
+
+1.1 tabindex ignored
 
 1.0 Initial version
